@@ -1,3 +1,4 @@
+# Code from CodeAcademy
 require 'benchmark'
 
 
